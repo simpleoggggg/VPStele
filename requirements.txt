@@ -1,0 +1,5 @@
+python-telegram-bot>=21.0
+flask>=3.0.0
+# Add below if you use specific advanced features
+# httpx # Often used by python-telegram-bot
+
