@@ -659,7 +659,7 @@ async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE) -> N
 
 
 def main():
-    bot_token = "8523876686:AAHHgxxIxoBIr0T-_7MnYpUFd0OezjD3wvM"
+    bot_token = "8409067250:AAGAUfHY_4MpFX7dm-fTwjGkLmA2Qts9hWg"
     
     os.makedirs(BASE_WORKSPACES_DIR, exist_ok=True)
     
